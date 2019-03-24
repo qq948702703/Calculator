@@ -1,0 +1,7 @@
+F:\Calculator\qq948702703\qq948702703\qq948702703\bin\Debug\qq948702703.exe.config
+F:\Calculator\qq948702703\qq948702703\qq948702703\bin\Debug\qq948702703.exe
+F:\Calculator\qq948702703\qq948702703\qq948702703\bin\Debug\qq948702703.pdb
+F:\Calculator\qq948702703\qq948702703\qq948702703\obj\Debug\qq948702703.csprojAssemblyReference.cache
+F:\Calculator\qq948702703\qq948702703\qq948702703\obj\Debug\qq948702703.csproj.CoreCompileInputs.cache
+F:\Calculator\qq948702703\qq948702703\qq948702703\obj\Debug\qq948702703.exe
+F:\Calculator\qq948702703\qq948702703\qq948702703\obj\Debug\qq948702703.pdb
